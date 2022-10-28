@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\obj\Debug\net5.0\Facade_Exemplo.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\obj\Debug\net5.0\Facade_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\obj\Debug\net5.0\Facade_Exemplo.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\obj\Debug\net5.0\Facade_Exemplo.AssemblyInfo.cs
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\obj\Debug\net5.0\Facade_Exemplo.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\bin\Debug\net5.0\Facade_Exemplo.exe
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\bin\Debug\net5.0\Facade_Exemplo.deps.json
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\bin\Debug\net5.0\Facade_Exemplo.runtimeconfig.json
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\bin\Debug\net5.0\Facade_Exemplo.runtimeconfig.dev.json
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\bin\Debug\net5.0\Facade_Exemplo.dll
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\bin\Debug\net5.0\ref\Facade_Exemplo.dll
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\bin\Debug\net5.0\Facade_Exemplo.pdb
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\obj\Debug\net5.0\Facade_Exemplo.dll
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\obj\Debug\net5.0\ref\Facade_Exemplo.dll
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\obj\Debug\net5.0\Facade_Exemplo.pdb
+D:\_serie_design_patterns\2__Estruturais\2_Facade\Facade_Exemplo\Facade_Exemplo\obj\Debug\net5.0\Facade_Exemplo.genruntimeconfig.cache
